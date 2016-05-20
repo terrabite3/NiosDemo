@@ -6,3 +6,4 @@ simulation/*
 *.qws
 *.bak
 *.rpt
+.qsys_edit/*
