@@ -1,0 +1,8 @@
+db/*
+output_files/*
+incremental_db/*
+greybox_tmp/*
+simulation/*
+*.qws
+*.bak
+*.rpt
