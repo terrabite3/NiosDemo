@@ -7,3 +7,5 @@ simulation/*
 *.bak
 *.rpt
 .qsys_edit/*
+.metadata/*
+RemoteSystemsTempFiles/*
